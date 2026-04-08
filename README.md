@@ -11,3 +11,5 @@ Context:
 https://github.com/JohnReedLOL/How-to-prep-for-the-programmer-job-interview 
 
 John Michael Reed's guide for prepping for the programmer job interview (for people who got to the job interview stage)
+
+https://www.levels.fyi/?tab=levels

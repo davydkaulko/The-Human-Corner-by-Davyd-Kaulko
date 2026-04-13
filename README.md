@@ -14,5 +14,8 @@ John Michael Reed's guide for prepping for the programmer job interview (for peo
 
 https://www.levels.fyi/?tab=levels
 
+A database featuring real salaries, seniority levels, and compensation structures at major tech companies and startups. A must-have resource for anyone looking to understand their objective market value, compare companies, and skillfully negotiate job offers.
 
 https://roadmap.sh/
+
+Detailed, step-by-step roadmaps for developers covering all the latest technical disciplines. An excellent visual tool that helps bring order to the chaos in your mind, identify which technologies to learn, and monitor your progress.
